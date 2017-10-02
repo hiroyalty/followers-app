@@ -8,6 +8,6 @@
     <p class="card-text">To see a list of my GitHub followers use the Navigation Bar:</p>
     <p class="card-text">To see my wed applications click on Links below:</p>
     <a href="https://fullhealth.herokuapp.com/" class="btn btn-primary">Health App</a>
-    <a href="https://newcityshopping-e9b2e.firebaseapp.com/" class="btn btn-primary">Shopping App</a>
+    <a href="https://fullhealth.herokuapp.com/" class="btn btn-primary">Shopping App</a>
   </div>
 </div> 
